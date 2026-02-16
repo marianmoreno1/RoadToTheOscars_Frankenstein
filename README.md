@@ -6,6 +6,7 @@ Repositorio con el código y los outputs del análisis de reseñas y conversaci�
 
 - Web scraping de reseñas y contenido público desde varias fuentes
 - Limpieza y normalización de datasets
+- Diccionario de palabras para la clasificación por categoría de Oscars
 - Análisis exploratorio (frecuencias, categorías, Top Critics vs Users)
 - Análisis de sentimiento y extracción de temas (palabras, bigramas, conceptos)
 - Generación de gráficos y tablas usadas en la presentación final
